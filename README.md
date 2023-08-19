@@ -43,3 +43,34 @@ The repository contains the following components:
    python main.py
 
 Follow the Prompts: Interact with the expert system by following the prompts. Identify diseases based on symptoms and receive treatment recommendations.
+
+## Contributing
+Contributions are welcome! If you have suggestions, improvements, or bug fixes, feel free to create issues or pull requests.
+
+1. Fork the Repository: Fork this repository to your GitHub account.
+
+2. Create a Feature Branch: Create a new branch for your feature:
+
+   ```bash
+   git checkout -b feature/your-feature
+
+3. Commit Changes: Commit your changes with descriptive messages:
+
+   ```bash
+   git commit -m "Add your changes"
+   
+4. Push Changes: Push your changes to your forked repository:
+
+   ```bash
+   git push origin feature/your-feature
+
+5. Open a Pull Request: Create a pull request to merge your changes into the main repository.
+
+### License
+This project is licensed under the MIT License.
+
+   ```bash
+  You can copy and paste this code into your README file and adjust any formatting or content as needed.
+
+
+   
