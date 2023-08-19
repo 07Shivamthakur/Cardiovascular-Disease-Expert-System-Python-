@@ -28,3 +28,45 @@ The repository contains the following components:
 
    ```bash
    git clone https://github.com/07Shivamthakur/Cardiovascular-expert-system-python.git
+   
+2. Python Installation: Ensure you have Python 3 installed on your system.
+
+## usage
+
+1. Navigate to Repository Directory: Open a terminal and navigate to the repository directory:
+
+   ```bash
+   cd heart-disease-expert-system-python
+   
+2. Run the Application: Execute the main application:
+   ```bash
+   python main.py
+
+Follow the Prompts: Interact with the expert system by following the prompts. Identify diseases based on symptoms and receive treatment recommendations.
+
+## Contributing
+Contributions are welcome! If you have suggestions, improvements, or bug fixes, feel free to create issues or pull requests.
+
+Fork the Repository: Fork this repository to your GitHub account:
+Create a Feature Branch: Create a new branch for your feature:
+ ```
+   git checkout -b feature/your-feature
+ ```
+Commit Changes: Commit your changes with descriptive messages:
+
+   ```
+git commit -m "Add your changes"
+   ```
+Push Changes: Push your changes to your forked repository:
+```
+git push origin feature/your-feature
+```
+Open a Pull Request: Create a pull request to merge your changes into the main repository.
+
+## License
+This project is licensed under the MIT License.
+```
+You can copy and paste this code into your README file and adjust any formatting or content as needed.
+
+
+  
